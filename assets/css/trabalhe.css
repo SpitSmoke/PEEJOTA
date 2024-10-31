@@ -5,9 +5,8 @@ section.trabalhe {
     min-width: 100%;
     max-width: 100%;
     min-height: 100%;
-    ;
     max-height: 100%;
-    ;
+    display: flex;
 }
 
 .trabalhe p {
@@ -42,7 +41,8 @@ section.trabalhe {
 }
 
 .trabalhe .curriculo {
-    margin-left: 20px;
+    margin-left: 240px;
+    border: 1px solid red;
 }
 
 .trabalhe .box-contato p em {

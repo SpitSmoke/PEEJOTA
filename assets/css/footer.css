@@ -1,4 +1,8 @@
-footer p{
+footer {
+    background-color: #3498db;
     padding: 20px;
     text-align: center;
+    color: #fff;
+    border-top: 1px solid #ccc; /* borda superior */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* efeito de sombra */
 }
